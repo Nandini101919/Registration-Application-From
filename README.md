@@ -45,13 +45,19 @@ A **web-based registration form** for O-Level course enrollment, created using *
 
 1. Clone the repository:
 
-git clone https://github.com/username/repository-name.git
+git clone https://https://github.com/Nandini101919/Registration-Application-From
 
 2.Open the index.html file in a web browser:
 
 double-click index.html or right-click → Open with → Chrome/Edge/Firefox
 
 Fill in the form fields and submit (if connected to a backend) or use Reset to clear entries.
+---
+ **👤 Author**
+
+ Name : NANDINI .M
+
+GitHub: https://github.com/Nandini101919
 ---
 ## 🏁 Conclusion
 
@@ -68,10 +74,3 @@ Preparation for integration with backend systems (like Python, PHP, or MySQL) fo
 This project serves as a foundation for learning web form creation, front-end design, and user interface development, and can be extended for dynamic registration systems or database-driven applications.
 
 ---
-
- **👤 Author**
-
-Your Name / GitHub Username
-Email: your-email@example.com
-
-GitHub: https://github.com/username
