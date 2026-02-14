@@ -47,3 +47,9 @@ A **web-based registration form** for O-Level course enrollment, created using *
 
 ```bash
 git clone https://github.com/username/repository-name.git
+2.Open the index.html file in a web browser:
+
+double-click index.html or right-click → Open with → Chrome/Edge/Firefox
+
+
+Fill in the form fields and submit (if connected to a backend) or use Reset to clear entries.
