@@ -22,8 +22,6 @@ A **web-based registration form** for O-Level course enrollment, created using *
 
 - **HTML5** – For form structure
 - **CSS3** – For styling and layout
-- Optional: Can be integrated with **JavaScript/PHP/Python** for backend submission.
-
 ---
 
 ## 📝 Form Sections
@@ -51,13 +49,14 @@ git clone https://https://github.com/Nandini101919/Registration-Application-From
 
 double-click index.html or right-click → Open with → Chrome/Edge/Firefox
 
-Fill in the form fields and submit (if connected to a backend) or use Reset to clear entries.
+Fill in the form fields or use Reset to clear entries.
 ---
  **👤 Author**
 
  Name : NANDINI .M
-
-GitHub: https://github.com/Nandini101919
+ 
+ GitHub: https://github.com/Nandini101919
+ 
 ---
 ## 🏁 Conclusion
 
