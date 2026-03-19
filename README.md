@@ -1,4 +1,3 @@
-# Registration-Application-From
 #  Registration Application Form
 
 A **web-based registration form** for O-Level course enrollment, created using **HTML and CSS**. This form captures personal details, contact information, educational qualifications, and identification details of applicants in a structured and user-friendly format.
